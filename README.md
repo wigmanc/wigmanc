@@ -8,7 +8,6 @@ Check periodically as I update all my notes from all my studies.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wigmanc)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, my name is Wigman
 #### Cyber Security
-Just a guy that enjoys anything computer-related and tries to learn every technology out there.
 
 Skills: JS / HTML / CSS / Linux / Containerization / Basic Scripting 
 
