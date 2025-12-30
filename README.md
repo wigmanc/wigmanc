@@ -49,52 +49,6 @@ I'm **Wigman**, a passionate learner diving deep into the world of **Cyber Secur
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wigmanc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigmanc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wigmanc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wigmanc&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Wigman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wigmanc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/wigmanc/wigmanc/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
@@ -102,7 +56,6 @@ I'm **Wigman**, a passionate learner diving deep into the world of **Cyber Secur
 
 *I'm always open to discussing cybersecurity, sharing knowledge, and collaborating on projects.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=wigmanc&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
