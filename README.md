@@ -68,14 +68,17 @@ I like taking something boring and manual and turning it into an automated pipel
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently Focused On
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wigmanc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wigmanc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigmanc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+| Area | Status |
+|---|---|
+| 🔐 Security+ | ![In Progress](https://img.shields.io/badge/status-in_progress-blue?style=flat-square) |
+| 🕵️ OSINT & recon tradecraft | ![Ongoing](https://img.shields.io/badge/status-ongoing-yellow?style=flat-square) |
+| 🏠 Home lab (OCI + Docker + n8n) | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| 🤖 LLM-powered automation pipelines | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| 💼 Building a public security portfolio | ![In Progress](https://img.shields.io/badge/status-in_progress-blue?style=flat-square) |
 
 </div>
 
