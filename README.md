@@ -1,11 +1,11 @@
-# 🛡️ Wigman Castro
+<h1 align="center">🛡️ Wigman Castro</h1>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Enthusiast;Linux+%7C+Containers+%7C+Scripting;Always+Learning%2C+Always+Growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=PC+Repair+%7C+Self-Hosting+%7C+Automation;Building+Toward+a+SOC%2FCyber+Career;Linux+%2B+Docker+%2B+n8n+%2B+LLM+Pipelines;Learning+in+Public%2C+Shipping+Small+Things)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wigman-castro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://very-easy.com/)
+[![Portfolio](https://img.shields.io/badge/very--easy.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://very-easy.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wigmanc)
 
 </div>
@@ -14,12 +14,29 @@
 
 ## 👨‍💻 About Me
 
-I'm **Wigman**, a passionate learner diving deep into the world of **Cyber Security**. I love exploring new technologies, going down rabbit holes, and documenting everything along the way.
+I run a small **PC repair shop**, and I'm building toward a **cybersecurity / SOC career** on the side — studying for **Security+**, running my own home lab, and shipping small tools that solve real problems (mine and my customers').
 
-- 🔭 Currently working on **building my security portfolio**
-- 🌱 Learning **SQL** and expanding my scripting skills
-- 🎯 Goal: Become a skilled **Cybersecurity Professional**
-- 📝 Documenting my journey to help others and reinforce my learning
+I like taking something boring and manual and turning it into an automated pipeline — a scraper, a webhook, an n8n workflow, a self-hosted stack — then documenting it well enough that future-me (or someone else) can pick it back up.
+
+- 🔧 Fixing computers by day, breaking (and rebuilding) my own infrastructure by night
+- 🏠 Running a home lab across an **OCI free-tier VM** and self-hosted **Docker** stacks
+- 🔐 Studying for **Security+**, aimed at SOC / cybersecurity roles
+- 🧪 Into **OSINT**, ethical hacking, and network administration
+- 📝 Documenting projects thoroughly — partly for others, partly to actually understand what I built
+
+---
+
+## 🚀 Projects
+
+| Project | What it does |
+|---|---|
+| 🛰️ **SHODAN FORGE** | Single-file HTML platform with 83+ curated Shodan queries across 18 categories — cyberpunk UI, live API integration, tiered access |
+| 🏠 **HomeSentinel** | FastAPI microservice that ingests Home Assistant events, uses an LLM to filter noise and write incident reports, then pushes them to Telegram |
+| 🚓 **Inmate Roster API** | Open-source API aggregating public county inmate roster data, scraped and served on a daily schedule |
+| ✍️ **Ghost AI Blog Pipeline** | n8n + Gemini workflow that auto-drafts SEO-minded blog posts for [very-easy.com](https://very-easy.com/ghost/) on a schedule |
+| 🎬 **Media Server Stack** | Self-hosted Prowlarr / Jackett / FlareSolverr stack in Docker, tuned for reliable indexer connectivity |
+
+*(Most of these are built and run entirely on a single OCI free-tier VM — proof you don't need a big budget to run a real home lab.)*
 
 ---
 
@@ -27,41 +44,48 @@ I'm **Wigman**, a passionate learner diving deep into the world of **Cyber Secur
 
 <div align="center">
 
-### Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Systems & Tools
+**Infra & Automation**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Security & Networking
+**Security & Networking**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-EC1C24?style=for-the-badge&logo=shodan&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wigmanc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wigmanc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigmanc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
 
 <div align="center">
 
 ### 💬 Let's Connect!
 
-*I'm always open to discussing cybersecurity, sharing knowledge, and collaborating on projects.*
-
-
-</div>
-
----
-
-<div align="center">
+*Always up for talking home labs, automation pipelines, OSINT, or the road to Security+.*
 
 **⭐ From [wigmanc](https://github.com/wigmanc) with 💙**
 
